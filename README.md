@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @floyddsouza
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently participating in Kaggle competitions as well as learning more on the background of the various ML algorithms
-- 💞️ I’m looking to collaborate on using CNNs for final inspection using multiclass or one-vs-all classification
+- 💞️ I’m looking to learn more and sharpen my skills
 - 📫 How to reach me www.linkedin.com/in/floyd-dsouza
 
 <!---
