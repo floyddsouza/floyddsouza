@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @floyddsouza
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently participating in Kaggle competitions as well as learning more on the background of the various ML algorithms
+- 👀 I’m interested in Machine Learning NLP domain
+- 🌱 I’m currently learning new ML archetechures as well as working on a few ML projects
 - 💞️ I’m looking to learn more and sharpen my skills
 - 📫 How to reach me www.linkedin.com/in/floyd-dsouza
 
